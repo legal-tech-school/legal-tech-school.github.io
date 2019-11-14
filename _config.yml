@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Sam Harden
+title: Legal Tech School
 
 # Short description of your site
-description: Lawyer / Fullstack Developer / Legal Technology Optimist.
+description: A User-Friendly Guide to Using Legal Technology
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -24,10 +24,10 @@ collections:
 # List of links in the navigation bar
 navbar-links:
 
-  My GitHub: "https://github.com/samharden/samharden.github.io"
+  Video Tutorials: "https://www.youtube.com/channel/UCCFR4rpeXQIv2KwcvaPwweQ"
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: ""
+avatar: "finch.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -92,7 +92,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "samharden.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "legal-tech-school.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
