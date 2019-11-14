@@ -24,7 +24,7 @@ collections:
 # List of links in the navigation bar
 navbar-links:
 
-  Video Tutorials: "https://www.youtube.com/channel/UCCFR4rpeXQIv2KwcvaPwweQ"
+  Tutorials by Topic: "https://legal-tech-school.github.io/tags/"
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "finch.jpg"
